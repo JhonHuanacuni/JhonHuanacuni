@@ -76,7 +76,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=JhonHuanacuni&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" alt="GitHub stats light" />
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://github.com/JhonHuanacuni/github-readme-stats#gh-light-mode-only">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonHuanacuni&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" alt="Top languages light" />
   </a>
 

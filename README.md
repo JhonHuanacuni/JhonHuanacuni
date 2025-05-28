@@ -94,7 +94,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhonHuanacuni&color=brightgreen" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JhonHuanacuni/count.svg" alt="Visitor Count" />
+</div>
 

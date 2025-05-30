@@ -4,11 +4,11 @@
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
 </h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=C8C8C8&multiline=true&repeat=false&width=540&height=180&lines=Hi%2C+my+name+is+Jhon+Huanacuni%2C++I'm+22+years+;old%2C+and+I'm+passionate+about+web+;development.+I+love+creating+functional%2C;+modern%2C+and+accessible+websites+and++;applications.+I'm+currently+learning+and+;working+with+technologies+like+JavaScript%2C+;React%2C+Django%2C+Node.js%2C+and+CSS3." alt="Typing SVG" />
   </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="200" >
 </p>
 
 <br><br>
